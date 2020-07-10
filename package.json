@@ -1,0 +1,23 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "learn git and node js",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simplice250/git-test.git"
+  },
+  "author": "simplice",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simplice250/git-test/issues"
+  },
+  "homepage": "https://github.com/simplice250/git-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
